@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+}
+.quote-section{
+    padding: 100px 0;
+}
+
+.anime {
+    width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.fullmetal {
+    width: 33.33%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.fullmetal-alchemist {
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: 4px 4px 11px #5d56565c;
+}
+
+h2 {
+    margin: 0;
+    text-align: center;
+}
+
+p {margin-bottom: 0;}
+
+section.Photo-section {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.pic {
+    width: 33.33%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.container{
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: 224px;
+    width: 100%;
+    box-shadow: 4px 4px 10px #3531317a;
+}
+
+h1{
+    font-size: 40px;
+    margin-top: 0;
+    text-align: center;
+    background-color: #212021;
+    color: white;
+}
+h3 {
+    margin-top: 0;
+}
